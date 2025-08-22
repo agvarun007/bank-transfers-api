@@ -1,6 +1,6 @@
 # Banking Transfers API
 
-A secure and robust banking transfers service built with Java 21 and Spring Boot. This application provides REST endpoints for managing accounts and executing money transfers with full concurrency safety and idempotency support.
+Java 21 + Spring Boot. Simple REST API to create accounts, move funds, and view transaction history. In-memory repositories; no database.
 
 ## Features
 
